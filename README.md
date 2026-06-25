@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I’m Abhisek Prajapati, a passionate developer from India who loves turning ideas into real-world applications. From responsive websites to full-stack projects, I enjoy learning new technologies, solving challenging problems, and building software that makes a difference.
+I’m Ganesh Prajapati, a passionate developer from India who loves turning ideas into real-world applications. From responsive websites to full-stack projects, I enjoy learning new technologies, solving challenging problems, and building software that makes a difference.
 
 ### ✨ Highlights
 
