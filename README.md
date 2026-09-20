@@ -15,10 +15,7 @@
 
 ## 🌐 How to Reach Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhisek_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshh06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshprajapat67849@gmail.com) 
- <a href="www.ganeshportfolio.in">
-    <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p> 
+
 
 
 ## 👨‍💻 About Me
